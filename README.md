@@ -16,9 +16,9 @@ The purpose of this analysis is to analyze the amazon reviews written by members
 
 Screenshots of analysis :
 
-![Total number of reviews](https://github.com/rtippana1/UFOs/blob/main/DataCapture.png)
+![Total number of reviews](https://github.com/rtippana1/Amazon_Vine_Analysis/blob/main/Images/total%20number%20of%20reviews.png)
 
-![Number of 5-star reviews](https://github.com/rtippana1/UFOs/blob/main/DataCapture.png)
+![Number of 5-star reviews](https://github.com/rtippana1/Amazon_Vine_Analysis/blob/main/Images/number%20of%205-star%20reviews.png)
 
 
 ## Summary
