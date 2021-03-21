@@ -7,11 +7,17 @@ The purpose of this analysis is to analyze the amazon reviews written by members
 
 ### Results
 1.Total number of reviews where the helpful_votes/total_votes is greater than 50% = 63,294
+
 2.Total Number of vine reviews = 1,266
+
 3.Total Number of non vine reviews = 62,028
+
 4.Number of 5 star vine reviewers = 432
+
 5.Number of 5 star non vine reviews = 29,982
+
 6.% of 5 star vine reviewers = 34.12%
+
 7.% of 5 star non vine reviewers = 48.34%
 
 Screenshots of analysis :
