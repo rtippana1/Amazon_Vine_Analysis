@@ -3,7 +3,7 @@
 ## Overview
 The purpose of this analysis is to analyze the amazon reviews written by members of the paid Amazon Vine program. The data is categorized into paid and unpaid reviews. The data set chosen was Amazon Toys reviews. The dataset comprises of the following columns :
 
-![Columns in the Data Set](https://github.com/rtippana1/UFOs/blob/main/DataCapture.png)
+![Columns in the Data Set](https://github.com/rtippana1/Amazon_Vine_Analysis/blob/main/Images/columns%20in%20the%20Data%20Set.png)
 
 ### Results
 1.Total number of reviews where the helpful_votes/total_votes is greater than 50% = 63,294
