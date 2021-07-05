@@ -28,4 +28,4 @@ Screenshots of analysis :
 
 
 ## Summary
-Based on the results of the analysis, a bias is strongly evident in the dataset we analyzed. Less than 20% of the total votes are from vine reviews.There is a huge difference between the number of vine reviews and number of non vine reviews.It would be interesting to know what percentage of the 5 star ratings from both vine and non vine reviews resulted in a verified purchase..
+Based on the results of the analysis, a bias is strongly evident in the dataset we analyzed. Less than 20% of the total votes are from vine reviews.There is a huge difference between the number of vine reviews and number of non vine reviews.It would be interesting to know what percentage of the 5 star ratings from both vine and non vine reviews resulted in a verified purchase.
